@@ -45,7 +45,7 @@ If you face issues installing `pyaudio`, try:
 
 ![WhatsApp Image 2025-09-28 at 15 11 38_a48d9c1f](https://github.com/user-attachments/assets/b3d21afa-e944-4d9e-baff-7a8730ba2ad8)
 
-## Working
+## Model Working:
 •	FLAN-T5 is a model from Google based on T5 (Text-to-Text Transformer).
 •	It’s trained to follow instructions like “summarize this,” “translate this,” “classify this text”.
 •	You give it text as input → it gives text as output (encoder–decoder style).
@@ -55,12 +55,13 @@ If you face issues installing `pyaudio`, try:
  
  In short: flan-t5-base is an open, instruction-tuned text-to-text AI model that can handle many tasks just by giving it a clear prompt.
 
+## Model Link:
+https://huggingface.co/google/flan-t5-base/tree/main
 
-
-## Stream App 🎓 Tutor RAG Voice Assistant
+## Stream App 🎓 Tutor RAG Voice Assistant:
 <img width="874" height="329" alt="image" src="https://github.com/user-attachments/assets/8a2f67d0-4144-4f17-a21b-4b86d0b803c0" />
 
-## Sreenshot
+## Sreenshots: 
 
 <img width="916" height="305" alt="image" src="https://github.com/user-attachments/assets/140b6b1b-d4c5-44e4-9e8c-78d090ea0761" />
 
