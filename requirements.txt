@@ -2,3 +2,14 @@ SpeechRecognition
 gTTS
 playsound
 pyaudio
+langchain-community>=0.0.1
+requests>=2.0.0
+urllib3>=2.0.0
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+huggingface_hub[hf_xet]
+langchain-huggingface
+accelerate
+
