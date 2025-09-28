@@ -45,6 +45,15 @@ If you face issues installing `pyaudio`, try:
 
 ![WhatsApp Image 2025-09-28 at 15 11 38_a48d9c1f](https://github.com/user-attachments/assets/b3d21afa-e944-4d9e-baff-7a8730ba2ad8)
 
+## Working
+•	FLAN-T5 is a model from Google based on T5 (Text-to-Text Transformer).
+•	It’s trained to follow instructions like “summarize this,” “translate this,” “classify this text”.
+•	You give it text as input → it gives text as output (encoder–decoder style).
+•	The “flan-t5-base” version is a medium-sized model (not too big, not too small).
+•	Because it was instruction-fine-tuned, it understands many tasks without extra training (zero-shot).
+•	It’s good for summarization, translation, Q&A, reasoning, etc., but not as strong as huge models.
+ 
+ In short: flan-t5-base is an open, instruction-tuned text-to-text AI model that can handle many tasks just by giving it a clear prompt.
 
 
 
